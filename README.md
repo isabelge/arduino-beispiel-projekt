@@ -28,6 +28,9 @@ Hier können die wichtigsten Punkte des Flussdiagramms kurz beschrieben werden.
 Zum Beispiel so:
 In diesem Flussdiagramm wird der Ablauf von einem Prüfungsauswerter aufgezeigt. Der wichtigste Teil des Programmes ist die Verzweigung, hier wird entschieden ob die Prüfung bestanden wurde oder nicht. Dafür wird überprüft, ob 60 Punkte erreicht wurden oder nicht.
 
+
+![Flussdiagramm](./Flussdiagramm.png)
+
 ## Projektbeschreibung
 Kurze Beschreibung der Vorgehensweise
 
